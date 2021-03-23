@@ -1,0 +1,66 @@
+[
+    {
+      "id": 0,
+      "playerName": "Hardik Pandya",
+      "from": "MI",
+      "price": "6.50 Cr",
+      "isPlaying": true,
+      "description": "All-rounder",
+      "thumbnail":"https://bsmedia.business-standard.com/_media/bs/img/article/2020-06/01/full/1590989984-5606.jpg"
+    },
+    {
+      "id": 1,
+      "playerName": "Virat Kohli",
+      "from": "RCB",
+      "price": "8.00 Cr",
+      "isPlaying": true,
+      "description": "Batsman",
+      "thumbnail":"https://resize.indiatvnews.com/en/resize/newbucket/715_-/2020/07/pjimage-10-1593671350.jpg"
+        },
+    {
+        "id": 2,
+        "playerName": "Yuvraj Singh",
+        "from": "MI",
+        "price": "1.00 Cr",
+        "isPlaying": false,
+        "description": "Batsman",
+        "thumbnail":"https://akm-img-a-in.tosshub.com/indiatoday/images/story/201911/YUVI30112019__2_.png?0yrIld3L5x8Vxj42dYA7Yr5josLRK9xx&size=770:433"
+      },
+      {
+        "id": 3,
+        "playerName": "Chris Morris",
+        "from": "RR",
+        "price": "16.25 Cr",
+        "isPlaying": true,
+        "description": "All-rounder",
+        "thumbnail":"https://pbs.twimg.com/media/Cjyo1nWWUAAwXBt.jpg"
+      },
+      {
+        "id": 4,
+        "playerName": "Glenn Maxwell",
+        "from": "RCB",
+        "price": "14.25",
+        "isPlaying": true,
+        "description": "All-rounder",
+        "thumbnail":"https://img.naidunia.com/naidunia/maxwell-03_22_08_2019.jpg"
+      },
+      {
+        "id": 5,
+        "playerName": "Rohit Sharma",
+        "from": "MI",
+        "price": "6.50 Cr",
+        "isPlaying": true,
+        "description": "BatsMan",
+        "thumbnail":"https://cdn.insidesport.co/wp-content/uploads/2020/12/13133027/2020-12-12-2.jpg"
+      },
+      {
+        "id": 6,
+        "playerName": "Ishan Kishan",
+        "from": "MI",
+        "price": "2.50 Cr",
+        "isPlaying": true,
+        "description": "BatsMan",
+        "thumbnail":"https://bucketimg.datanethosting.us/wp-content/uploads/20200929222951/Aditi-Hundia-Brother.jpg"
+      }
+]
+      

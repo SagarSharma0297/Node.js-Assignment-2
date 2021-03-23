@@ -1,0 +1,9 @@
+<h1>Hey I am {{Name}}</h1>
+<img src="{{image}}" alt="">
+<button id="nxtbtn">NEXT</button>
+<script>
+    document.getElementById('nxtbtn').onclick=function(){
+        location.pathname.split('/')[1]
+        location.href = `/${location.pathname.split('/')[1]}/${parseInt(location.pathname.split('/')[2])+1}`
+    }
+</script>
